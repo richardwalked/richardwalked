@@ -1,19 +1,13 @@
-#### Bio
+# Richard Walker JR 
 
-# RICHARD WALKER JR.
-### Army Veteran // Computer Science Graduate Student // Inspiring Software Engineer. 
+### Combat Veteran | CS Masters Student | Founder | CEO
 
-Greetings, 👋🏾
+I'm orchestrating a career transition from military service to technology creation. Join me as I navigate towards the next stage of my life.
 
-I'm a Field Artillery Officer in the United States Army, pursuing my master's in Computer Science at Alcorn State University in Lorman, MS. My thesis research interests are misinformation, machine learning, social media, and the information age! Within these fields, I work on projects related to improving automation detection methods for false information globally, examining human behaviors on social media, and analyzing the socioeconomic impacts of false information.
+This GitHub repository documents the following articles of my progress: the code, the prototypes, and the lessons learned, all in public. It's the technical ledger of my transition from service to founder.
 
-My thesis research examined the dangers of misinformation on modern-day media platforms and how to utilize machine learning methods/models to identify the accuracy, scalability, and adaptability of auto-detection systems and processes for misinformation. The research highlights the importance of detecting, neutralizing, and destroying misinformation, deterring bad actors, understanding the ramifications of false information, and developing/researching advanced, modern detection solutions.
+> *"Build it and they will come"*
 
-In my free time, I like to spend time with family, DIY projects, and spend my days trying to beat the stock market.
-
-**My Interests:**
-
-- 🚗 Cars
-- ☠️ Rogue-likes
-- 👟 Sneakers
-- 💪🏾 Fitness
+For updates on my journey, follow me on:
+- Twitter: [@richardwalked](https://x.com/richardwalked)
+- LinkedIn: [Richard Walker Jr.](https://www.linkedin.com/in/richard-walker-518338338/)
