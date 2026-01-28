@@ -12,7 +12,7 @@ Join me as I navigate the next stages of my life, preparing to transition from m
 
 #### Connect & Follow the Journey
 - **Real-time updates & insights:** [X / @richardwalked](https://x.com/richardwalked)
-- **Professional background:** [LinkedIn](https://www.linkedin.com/in/richard-walker-518338338/)
+- **Professional background:** [LinkedIn](https://www.linkedin.com/in/therichardwalker/))
 - **Build-in-public videos:** [YouTube](https://www.youtube.com/@richwalkjr)
 
 > *"If you build it, they will come."*
